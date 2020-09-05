@@ -1,0 +1,9 @@
+Mochou.Cache/Mochou.Form/Mochou.HClient/ConsoleTest为依赖于Mochou.Core的项目（Mochou.Form为根目录的项目）
+
+Cache和HClient还在开发中
+
+Mochou.Core：核心工具包
+
+Mochou.Form：WinForm工具包
+Mochou.HClient：Html客户端开发包，可为js开发调用系统功能的能力吗，内核基于CefSharp.WinForms.43.0.1
+ConsoleTest：控制台测试项目
